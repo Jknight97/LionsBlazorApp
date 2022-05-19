@@ -12,35 +12,233 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -291677133,
+        "HashCode": 1166587175,
         "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.FetchData",
+        "Name": "LionsApp.Pages.Index",
         "AssemblyName": "LionsApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.FetchData"
+          "Common.TypeName": "LionsApp.Pages.Index"
         }
       },
       {
-        "HashCode": 831840536,
+        "HashCode": -799695551,
         "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.FetchData",
+        "Name": "LionsApp.Pages.Index",
         "AssemblyName": "LionsApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "LionsApp.Pages.FetchData"
+            "TagName": "LionsApp.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.FetchData",
+          "Common.TypeName": "LionsApp.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1862154008,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Stats",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Stats"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Stats"
+        }
+      },
+      {
+        "HashCode": -2000758116,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Stats",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Stats"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Stats",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 333574136,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Roster",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Roster"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Roster"
+        }
+      },
+      {
+        "HashCode": 695019442,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Roster",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Roster"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Roster",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -826039601,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Standings",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Standings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Standings"
+        }
+      },
+      {
+        "HashCode": 539538423,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Standings",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Standings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Standings",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1104893475,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.TeamYearbook",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TeamYearbook"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.TeamYearbook"
+        }
+      },
+      {
+        "HashCode": -1684580340,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.TeamYearbook",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.TeamYearbook"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.TeamYearbook",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1573744874,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Coaching",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Coaching"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Coaching"
+        }
+      },
+      {
+        "HashCode": -783095052,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Coaching",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Coaching"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Coaching",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1445169831,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Transactions",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Transactions"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Transactions"
+        }
+      },
+      {
+        "HashCode": -779582318,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Transactions",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Transactions"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Transactions",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -98,35 +296,101 @@
         }
       },
       {
-        "HashCode": 1166587175,
+        "HashCode": -968262619,
         "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Index",
+        "Name": "LionsApp.Pages.FreeAgency",
         "AssemblyName": "LionsApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "FreeAgency"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Index"
+          "Common.TypeName": "LionsApp.Pages.FreeAgency"
         }
       },
       {
-        "HashCode": -799695551,
+        "HashCode": 1473518299,
         "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Index",
+        "Name": "LionsApp.Pages.FreeAgency",
         "AssemblyName": "LionsApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "LionsApp.Pages.Index"
+            "TagName": "LionsApp.Pages.FreeAgency"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Index",
+          "Common.TypeName": "LionsApp.Pages.FreeAgency",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -291677133,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.FetchData",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 831840536,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.FetchData",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1087822256,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Administration",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Administration"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Administration"
+        }
+      },
+      {
+        "HashCode": -1430807694,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Administration",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Administration"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Administration",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16632,6 +16896,11 @@
   "RootNamespace": "LionsApp",
   "Documents": [
     {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\Stats.razor",
+      "TargetPath": "Pages\\Stats.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
@@ -16647,9 +16916,29 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\TeamYearbook.razor",
+      "TargetPath": "Pages\\TeamYearbook.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\Standings.razor",
+      "TargetPath": "Pages\\Standings.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\FreeAgency.razor",
+      "TargetPath": "Pages\\FreeAgency.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\Administration.razor",
+      "TargetPath": "Pages\\Administration.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\FetchData.razor",
@@ -16667,6 +16956,11 @@
       "FileKind": "componentImport"
     },
     {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\Roster.razor",
+      "TargetPath": "Pages\\Roster.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
@@ -16675,6 +16969,16 @@
       "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\_Layout.cshtml",
       "TargetPath": "Pages\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\Coaching.razor",
+      "TargetPath": "Pages\\Coaching.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\Transactions.razor",
+      "TargetPath": "Pages\\Transactions.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Shared\\NavMenu.razor",
