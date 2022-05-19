@@ -1,0 +1,22 @@
+﻿@page "/"
+
+@* Somethings messing with page title *@
+
+<h1>Hello Fuckers</h1>
+
+Description: @description
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+<Counter IncrementAmount="10" />
+
+<PageTitle>@title</PageTitle>
+
+<HeadContent>
+    <meta name="description" content="@description">
+</HeadContent>
+
+@code {
+    private string description = "Desc";
+    private string title = "Index";
+}
