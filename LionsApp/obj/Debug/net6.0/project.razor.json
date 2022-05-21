@@ -12,6 +12,158 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1573744874,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Coaching",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Coaching"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Coaching"
+        }
+      },
+      {
+        "HashCode": -783095052,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Coaching",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Coaching"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Coaching",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1771634120,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Counter",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 213778497,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Counter",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -291677133,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.FetchData",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 831840536,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.FetchData",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -968262619,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.FreeAgency",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FreeAgency"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.FreeAgency"
+        }
+      },
+      {
+        "HashCode": 1473518299,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.FreeAgency",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.FreeAgency"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.FreeAgency",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1166587175,
         "Kind": "Components.Component",
         "Name": "LionsApp.Pages.Index",
@@ -41,39 +193,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LionsApp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1862154008,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Stats",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Stats"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Stats"
-        }
-      },
-      {
-        "HashCode": -2000758116,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Stats",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LionsApp.Pages.Stats"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Stats",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -144,6 +263,39 @@
         }
       },
       {
+        "HashCode": 1862154008,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Stats",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Stats"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Stats"
+        }
+      },
+      {
+        "HashCode": -2000758116,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Stats",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Stats"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Stats",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1104893475,
         "Kind": "Components.Component",
         "Name": "LionsApp.Pages.TeamYearbook",
@@ -177,39 +329,6 @@
         }
       },
       {
-        "HashCode": 1573744874,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Coaching",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Coaching"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Coaching"
-        }
-      },
-      {
-        "HashCode": -783095052,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Coaching",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LionsApp.Pages.Coaching"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Coaching",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1445169831,
         "Kind": "Components.Component",
         "Name": "LionsApp.Pages.Transactions",
@@ -239,125 +358,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LionsApp.Pages.Transactions",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1771634120,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Counter",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 213778497,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Counter",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LionsApp.Pages.Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -968262619,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.FreeAgency",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FreeAgency"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.FreeAgency"
-        }
-      },
-      {
-        "HashCode": 1473518299,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.FreeAgency",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LionsApp.Pages.FreeAgency"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.FreeAgency",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -291677133,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.FetchData",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 831840536,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.FetchData",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LionsApp.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

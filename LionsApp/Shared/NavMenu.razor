@@ -1,6 +1,9 @@
 ﻿<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="">LionsApp</a>
+        <a class="navbar-brand" href="">Detroit Lions</a>
+        <div class="navbar-header pull-right">
+            <a class="img-responsive" href=""><img src="img/lion.png"></a>
+        </div>
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -9,9 +12,6 @@
 
 <div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
     <nav class="flex-column">
-        <div class="navbar-header pull-left">
-            <a class="navbar-brand" href=""><img src="img/lion.png"></a>
-        </div>
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
                 <span class="oi oi-home" aria-hidden="true"></span> Home
