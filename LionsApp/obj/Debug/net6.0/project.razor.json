@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1087822256,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Administration",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Administration"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Administration"
+        }
+      },
+      {
+        "HashCode": -1430807694,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Administration",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Administration"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Administration",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1573744874,
         "Kind": "Components.Component",
         "Name": "LionsApp.Pages.Coaching",
@@ -362,39 +395,6 @@
         }
       },
       {
-        "HashCode": 1087822256,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Administration",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Administration"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Administration"
-        }
-      },
-      {
-        "HashCode": -1430807694,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Administration",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LionsApp.Pages.Administration"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Administration",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1704224158,
         "Kind": "Components.Component",
         "Name": "LionsApp.App",
@@ -606,6 +606,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LionsApp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1092685315,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Shared.MainNav",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Shared.MainNav"
+        }
+      },
+      {
+        "HashCode": 298607868,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Shared.MainNav",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Shared.MainNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Shared.MainNav",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16943,6 +16976,11 @@
     {
       "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Shared\\MainNav.razor",
+      "TargetPath": "Shared\\MainNav.razor",
       "FileKind": "component"
     },
     {

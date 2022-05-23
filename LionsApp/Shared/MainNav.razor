@@ -1,0 +1,57 @@
+﻿<div class="topnav ps-3 navbar me-auto navbar-dark">
+    <div class="container-fluid">
+        <ul class="navbar-nav me-auto order-0 ">
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="roster">
+                    <span class="oi oi-people" aria-hidden="true"></span> Roster
+                </NavLink>
+            </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="freeagency">
+                    <span class="oi oi-eye" aria-hidden="true"></span> Free Agency Tracker
+                </NavLink>
+            </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="coaching">
+                    <span class="oi oi-headphones" aria-hidden="true"></span> Coaching
+                </NavLink>
+            </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="administration">
+                    <span class="oi oi-briefcase" aria-hidden="true"></span> Administration
+                </NavLink>
+            </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="stats">
+                    <span class="oi oi-list-rich" aria-hidden="true"></span> Stats
+                </NavLink>
+            </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="transactions">
+                    <span class="oi oi-circle-check" aria-hidden="true"></span> Transactions
+                </NavLink>
+            </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="standings">
+                    <span class="oi oi-vertical-align-bottom" aria-hidden="true"></span> Standings
+                </NavLink>
+            </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="teamyearbook">
+                    <span class="oi oi-camera-slr" aria-hidden="true"></span> Team Yearbook
+                </NavLink>
+            </div>
+        </ul>
+    </div>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
