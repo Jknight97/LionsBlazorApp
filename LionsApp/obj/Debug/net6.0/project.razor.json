@@ -296,39 +296,6 @@
         }
       },
       {
-        "HashCode": 1862154008,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Stats",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Stats"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Stats"
-        }
-      },
-      {
-        "HashCode": -2000758116,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Pages.Stats",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LionsApp.Pages.Stats"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Pages.Stats",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1104893475,
         "Kind": "Components.Component",
         "Name": "LionsApp.Pages.TeamYearbook",
@@ -391,6 +358,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LionsApp.Pages.Transactions",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1862154008,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Stats",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Stats"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Stats"
+        }
+      },
+      {
+        "HashCode": -2000758116,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Pages.Stats",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Pages.Stats"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Pages.Stats",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -477,6 +477,105 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LionsApp.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1092685315,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Shared.MainNav",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Shared.MainNav"
+        }
+      },
+      {
+        "HashCode": 298607868,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Shared.MainNav",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Shared.MainNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Shared.MainNav",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 279584599,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Shared.NavMenu",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1548028184,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Shared.NavMenu",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -244792770,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Shared.Headr",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Headr"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Shared.Headr"
+        }
+      },
+      {
+        "HashCode": -1446215578,
+        "Kind": "Components.Component",
+        "Name": "LionsApp.Shared.Headr",
+        "AssemblyName": "LionsApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LionsApp.Shared.Headr"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LionsApp.Shared.Headr",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -573,72 +672,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "LionsApp.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 279584599,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Shared.NavMenu",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 1548028184,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Shared.NavMenu",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LionsApp.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1092685315,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Shared.MainNav",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MainNav"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Shared.MainNav"
-        }
-      },
-      {
-        "HashCode": 298607868,
-        "Kind": "Components.Component",
-        "Name": "LionsApp.Shared.MainNav",
-        "AssemblyName": "LionsApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LionsApp.Shared.MainNav"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LionsApp.Shared.MainNav",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16996,6 +17029,11 @@
     {
       "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Pages\\Roster.razor",
       "TargetPath": "Pages\\Roster.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Microsoft VS Code\\LionsBlazorApp\\LionsApp\\Shared\\Headr.razor",
+      "TargetPath": "Shared\\Headr.razor",
       "FileKind": "component"
     },
     {
